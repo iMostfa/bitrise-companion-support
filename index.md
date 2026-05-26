@@ -1,8 +1,8 @@
 ---
-title: Bitrise Companion — Support
+title: Bitrise Pocket — Support
 ---
 
-# Bitrise Companion
+# Bitrise Pocket
 
 Unofficial third-party iOS client for Bitrise CI/CD.
 
@@ -17,4 +17,4 @@ Unofficial third-party iOS client for Bitrise CI/CD.
 
 ---
 
-_Bitrise Companion is not affiliated with, endorsed by, or sponsored by Bitrise Ltd. "Bitrise" is a trademark of Bitrise Ltd._
+_Bitrise Pocket is not affiliated with, endorsed by, or sponsored by Bitrise Ltd. "Bitrise" is a trademark of Bitrise Ltd._

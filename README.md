@@ -1,4 +1,4 @@
-# Bitrise Companion — Support & Privacy
+# Bitrise Pocket — Support & Privacy
 
 Static site hosting:
 
@@ -6,4 +6,4 @@ Static site hosting:
 - [Privacy Policy](https://imostfa.github.io/bitrise-companion-support/privacy/)
 - [Issues](https://github.com/iMostfa/bitrise-companion-support/issues)
 
-The Bitrise Companion iOS app source lives in a separate private repository.
+The Bitrise Pocket iOS app source lives in a separate private repository.

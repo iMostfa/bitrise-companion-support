@@ -3,11 +3,11 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy — Bitrise Companion
+# Privacy Policy — Bitrise Pocket
 
 _Last updated: 2026-05-27_
 
-Bitrise Companion ("the App") is an unofficial third-party iOS client for the Bitrise CI/CD service. This policy describes what data the App handles.
+Bitrise Pocket ("the App") is an unofficial third-party iOS client for the Bitrise CI/CD service. This policy describes what data the App handles.
 
 ## Data the App stores on your device
 
